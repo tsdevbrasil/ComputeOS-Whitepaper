@@ -1,49 +1,57 @@
-# COMPUTEOS
+COMPUTEOS
 
-### SISTEMA OPERACIONAL DE REDE COMPARTILHADA
+SHARED NETWORK OPERATING SYSTEM
 
-Transformando computadores, servidores e recursos em nuvem em uma única plataforma de computação distribuída.
-
----
-
-## FASE 1 — PESQUISA E VALIDAÇÃO DO CONCEITO
-
-Primeiros protótipos em fase de pesquisa e testes para validar a comunicação entre dispositivos e a nuvem.
-
-![PROTOTIPO](Screenshot_20260531-193000.png)
+Transforming computers, servers and cloud resources into a single distributed computing platform.
 
 ---
 
-## CONCEITO DA REDE DISTRIBUÍDA
+PHASE 1 — RESEARCH AND CONCEPT VALIDATION
 
-A proposta do ComputeOS é permitir que dispositivos compartilhem recursos computacionais de forma inteligente, criando uma infraestrutura global de computação compartilhada.
+The first prototype is currently in the research and testing phase. The goal is to validate communication between a local computer and cloud resources, proving the foundation of the ComputeOS concept.
 
-![ARQUITETURA](Screenshot_20260531-193001.png)
+"Phase 1" (Screenshot_20260531-181223~3.png)
 
----
-
-## DESAFIOS
-
-- Latência de rede
-- Segurança
-- Privacidade
-- Sincronização de dados
-- Escalabilidade global
+"Research" (Screenshot_20260531-193017~2.png)
 
 ---
 
-## OBJETIVO
+DISTRIBUTED COMPUTING NETWORK
 
-Democratizar o acesso à computação avançada, reduzir desperdício de hardware e permitir que qualquer pessoa utilize recursos computacionais muito além da capacidade do próprio dispositivo.
+ComputeOS aims to connect devices, servers and cloud infrastructure into a shared network capable of providing computing power beyond the limits of a single machine.
+
+"Architecture" (96b8c26ea3f3458d1c72ffe5f6312fc9bfb7b5a255036219c3daa7bae8e37c61.png)
+
+"Concept" (file_000000008bec71f5a72a458552d0ea90.png)
+
+"Concept" (file_0000000097d0720e8e4e67b76e44bc0f.png)
+
+"Concept" (file_00000000b76471f5bf1dcd760aa453a1.png)
+
+"Concept" (file_00000000ec9c720eaeb92c96f09eb5d4.png)
+
+"Concept" (file_00000000fc6c720e82df0becae498249.png)
 
 ---
 
-## STATUS
+MAIN CHALLENGES
 
-🔬 Pesquisa em andamento  
-⚙️ Protótipos em desenvolvimento  
-🚀 Buscando colaboradores e investidores
+- Network latency
+- Security
+- Privacy
+- Synchronization
+- Global scalability
 
 ---
 
-### DEV BRASIL NETWORK
+CURRENT STATUS
+
+🔬 Research in progress
+
+⚙️ Prototype development
+
+🚀 Seeking collaborators, researchers and investors
+
+---
+
+DEV BRASIL NETWORK
